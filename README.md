@@ -1,4 +1,1 @@
-testrepo
-reti
-g
-create a second branch
+new text in branch fix2
